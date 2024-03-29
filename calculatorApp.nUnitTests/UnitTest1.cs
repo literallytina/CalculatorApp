@@ -2,6 +2,8 @@
 using System.Xml.Serialization;
 using NUnit.Framework.Constraints;
 using calculatorApp.Core;
+using calculatorApp.OperationClass;
+using calculatorApp.Enum;
 
 namespace calculatorApp.nUnitTests
 { 

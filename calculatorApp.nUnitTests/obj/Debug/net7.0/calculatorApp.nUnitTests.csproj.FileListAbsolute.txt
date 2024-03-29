@@ -1,9 +1,4 @@
 /Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/bin/Debug/net7.0/CoverletSourceRootsMapping
-/Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.csproj.AssemblyReference.cache
-/Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.GeneratedMSBuildEditorConfig.editorconfig
-/Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.AssemblyInfoInputs.cache
-/Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.AssemblyInfo.cs
-/Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.csproj.CoreCompileInputs.cache
 /Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/bin/Debug/net7.0/calculator-app.deps.json
 /Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/bin/Debug/net7.0/calculator-app.runtimeconfig.json
 /Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/bin/Debug/net7.0/calculator-app
@@ -96,6 +91,11 @@
 /Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/bin/Debug/net7.0/calculator-app.dll
 /Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/bin/Debug/net7.0/calculator-app.pdb
+/Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.csproj.AssemblyReference.cache
+/Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.AssemblyInfoInputs.cache
+/Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.AssemblyInfo.cs
+/Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.csproj.CoreCompileInputs.cache
 /Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.csproj.CopyComplete
 /Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/calculatorApp.nUnitTests.dll
 /Users/mac/Projects/calculator-app/calculatorApp.nUnitTests/obj/Debug/net7.0/refint/calculatorApp.nUnitTests.dll
