@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{F69993A6-4ADF-475E-9982-9212E911254A}|Default">
+  <MonoDevelop.Ide.ItemProperties.calculatorApp.nUnitTests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.calculator-app PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

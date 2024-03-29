@@ -1,0 +1,17 @@
+/Users/mac/Projects/calculator-app/calculator-app/bin/Debug/net7.0/calculator-app
+/Users/mac/Projects/calculator-app/calculator-app/bin/Debug/net7.0/calculator-app.deps.json
+/Users/mac/Projects/calculator-app/calculator-app/bin/Debug/net7.0/calculator-app.runtimeconfig.json
+/Users/mac/Projects/calculator-app/calculator-app/bin/Debug/net7.0/calculator-app.dll
+/Users/mac/Projects/calculator-app/calculator-app/bin/Debug/net7.0/calculator-app.pdb
+/Users/mac/Projects/calculator-app/calculator-app/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/mac/Projects/calculator-app/calculator-app/obj/Debug/net7.0/calculator-app.csproj.AssemblyReference.cache
+/Users/mac/Projects/calculator-app/calculator-app/obj/Debug/net7.0/calculator-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/calculator-app/calculator-app/obj/Debug/net7.0/calculator-app.AssemblyInfoInputs.cache
+/Users/mac/Projects/calculator-app/calculator-app/obj/Debug/net7.0/calculator-app.AssemblyInfo.cs
+/Users/mac/Projects/calculator-app/calculator-app/obj/Debug/net7.0/calculator-app.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/calculator-app/calculator-app/obj/Debug/net7.0/calculator-app.csproj.CopyComplete
+/Users/mac/Projects/calculator-app/calculator-app/obj/Debug/net7.0/calculator-app.dll
+/Users/mac/Projects/calculator-app/calculator-app/obj/Debug/net7.0/refint/calculator-app.dll
+/Users/mac/Projects/calculator-app/calculator-app/obj/Debug/net7.0/calculator-app.pdb
+/Users/mac/Projects/calculator-app/calculator-app/obj/Debug/net7.0/calculator-app.genruntimeconfig.cache
+/Users/mac/Projects/calculator-app/calculator-app/obj/Debug/net7.0/ref/calculator-app.dll
